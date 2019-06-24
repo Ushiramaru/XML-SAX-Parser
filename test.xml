@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<document>
+    <user>
+        <uid>C3A13DF2-289A-D36B-8D18-1AD7252962F9</uid>
+        <name>Alfonzo McGlynn</name>
+        <email>edythe@lowe.name</email>
+        <city>Catherynport</city>
+        <address>7846 Maryln Shore</address>
+        <phone>408-319-2818</phone>
+        <gender>female</gender>
+        <skills>
+            <skill>Angular.JS</skill>
+            <skill>AWS</skill>
+            <skill>Heroku</skill>
+            <skill>PHP</skill>
+            <skill>Cassandra</skill>
+            <skill>Bootstrap</skill>
+            <skill>XHR</skill>
+            <skill>JSP</skill>
+        </skills>
+    </user>
+    <user>
+        <uid>2900DE9A-EE5F-3D6A-7D49-E001C4A08BA9</uid>
+        <name>Ashlyn Macejkovic</name>
+        <email>domitila.hudson@schiller.name</email>
+        <city>Emeryton</city>
+        <address>20843 Heller Lake</address>
+        <phone>380-565-4525</phone>
+        <gender>male</gender>
+        <skills>
+            <skill>Rails</skill>
+            <skill>Photoshop</skill>
+            <skill>JSP</skill>
+            <skill>Mac</skill>
+            <skill>Java</skill>
+            <skill>SVN</skill>
+            <skill>Java</skill>
+            <skill>Typo3</skill>
+        </skills>
+    </user>
+    <user role="admin">
+        <uid>EF207FF1-AE5B-E1B6-01FE-927E90ED178F</uid>
+        <name>Sunshine Feest</name>
+        <email>cornelius_haag@hermistoncole.name</email>
+        <city>Sherrieland</city>
+        <address>4600 Logan Shoals</address>
+        <phone>484-549-3264</phone>
+        <gender>female</gender>
+        <skills>
+            <skill>Perl</skill>
+            <skill>SVN</skill>
+            <skill>Git</skill>
+            <skill>Angular.JS</skill>
+            <skill>Django</skill>
+            <skill>CSS3</skill>
+        </skills>
+    </user>
+</document>
